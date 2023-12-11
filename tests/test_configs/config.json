@@ -1,0 +1,7 @@
+{
+    "memory_limit" : 32,
+    "input_delay" : 1,
+    "output_delay" : 1,
+    "winding_delay": 1,
+    "shift_delay": 1
+}
