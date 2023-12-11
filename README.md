@@ -41,7 +41,7 @@ Don't forget to create input.txt!
 * test-config: `./build/tests/config.json`
 ```bash
 ./file_tape_test
-./tape_sorter_tests
+./tape_sorter_test
 ```
 
 # Description
